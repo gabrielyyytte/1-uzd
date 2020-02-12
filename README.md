@@ -1,4 +1,4 @@
-# 1-oji užduotis Įrėmintas pasisveikinimas:
+# 1-oji užduotis - įrėmintas pasisveikinimas
 Programa, kuri nuskaityto vartotojo įvestą vardą ir atspausdina "įrėmintą" pasisveikinimą.
 
 ## Releases
