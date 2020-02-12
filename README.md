@@ -1,5 +1,4 @@
-# 1-oji užduotis
-# Įrėmintas pasisveikinimas:
+# 1-oji užduotis Įrėmintas pasisveikinimas:
 Programa, kuri nuskaityto vartotojo įvestą vardą ir atspausdina "įrėmintą" pasisveikinimą.
 
 ## Releases
@@ -7,7 +6,7 @@ Programa, kuri nuskaityto vartotojo įvestą vardą ir atspausdina "įrėmintą"
  * Programa atspausdina penkių eilučių rėmelį. Kiekviena rėmelio eilutė yra saugoma atskirame kintamajame.
  
  <br />[v0.2](https://github.com/gabrielyyytte/1-uzd/releases/tag/v0.2) Antroji versija
- *Modifikuota (v0.1) versija taip, kad jeigu vartotojas yra moteris, tuomet vietoj "Sveikas, " rašoma "Sveika, ".
+ * Modifikuota (v0.1) versija taip, kad jeigu vartotojas yra moteris, tuomet vietoj "Sveikas," rašoma "Sveika,".
   
  <br />[v0.3](https://github.com/gabrielyyytte/1-uzd/releases/tag/v0.3) Trečia versija
  * Modifikuota (v0.2) versija taip, kad nereiktų kiekvienos eilutės saugoti atskirame kintamajame, taip pat vartotojui suteikta galimybė nurodyti rėmelio plotį (eilučių skaičių).
